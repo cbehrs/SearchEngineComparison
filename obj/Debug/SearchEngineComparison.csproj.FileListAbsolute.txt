@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\bin\Debug\SearchEngineComparison.exe.config
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\bin\Debug\SearchEngineComparison.exe
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\bin\Debug\SearchEngineComparison.pdb
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\obj\Debug\SearchEngineComparison.exe
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\obj\Debug\SearchEngineComparison.pdb
+C:\Users\Carlos\Desktop\PROYECTOS\SearchEngineComparison\obj\Debug\SearchEngineComparison.csprojAssemblyReference.cache
